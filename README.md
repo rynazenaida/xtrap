@@ -1,32 +1,43 @@
 # xtrap
+---
 ## credit card xtrap
-
-Termux Version:
-  <ul class="list-group list-group-flush">
-    <li class="list-group-item"><code>pkg update</code></li>
-    <li class="list-group-item"><code>pkg upgrade</code></li>
-    <li class="list-group-item"><code>pkg install git</code></li>
-    <li class="list-group-item"><code>pkg install php</code></li>
-    <li class="list-group-item"><code>git clone https://github.com/rynazenaida/xtrap</code></li>
-    <li class="list-group-item"><code>cd xtrap</code></li>
-    <li class="list-group-item"><code>php xtrap.php</code></li>
-  </ul>
-<p align="left">
-  <img src="assets/banxtrap.png">
-</p>
 
 ---
 
-#### To change Tor IP address:
+---
+
+#### Termux Version:
 <details><summary>installation</summary>
 <br>
 
 ```bash
-toriptables2.py -r
+pkg update
 ```
 ```bash
-toriptables2.py -r
+pkg upgrade
+```
+```bash
+pkg install git
+```
+```bash
+pkg install php
+```
+```bash
+git clone https://github.com/rynazenaida/xtrap
+```
+```bash
+cd xtrap
+```
+```bash
+php xtrap.php
 ```
 </details>
 
 ---
+
+---
+<p align="left">
+  <img src="assets/banxtrap.png">
+</p>
+---
+
