@@ -14,3 +14,16 @@ Termux Version:
 <p align="left">
   <img src="assets/banxtrap.png">
 </p>
+
+---
+
+#### To change Tor IP address:
+<details><summary>installation</summary>
+<br>
+
+```bash
+toriptables2.py -r
+```
+</details>
+
+---
