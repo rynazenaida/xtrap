@@ -13,5 +13,5 @@ Termux Version:
 ## Banner
 
 <p align="center">
-  <img width="600" height="200" src="assets/banxtrap.png">
+  <img src="assets/banxtrap.png">
 </p>
