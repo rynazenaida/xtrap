@@ -1,6 +1,6 @@
 # xtrap
 ---
-## windows version
+## cc xtrap
 
 ---
 
