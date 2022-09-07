@@ -1,6 +1,20 @@
 # xtrap
 ---
-## credit card xtrap
+## windows version
+---
+<details><summary>run in cmd</summary>
+<br>
+```bash
+php xtrap.php
+```
+#### Download Windows Version
+
+<details><summary>Windows Version</summary>
+ 
+* [DOWNLOAD](https://github.com/rynazenaida/xtrap/raw/main/cmd/xtrap.zip)
+
+</details>
+ ---
 
 
 ---
@@ -33,22 +47,6 @@ php xtrap.php
 </details>
 
 ---
----
-#### Windows Version:
-<details><summary>run in cmd</summary>
-<br>
-```bash
-php xtrap.php
-```
----
-#### Download Windows Version
-
-<details><summary>Windows Version</summary>
- 
-* [DOWNLOAD](https://github.com/rynazenaida/xtrap/raw/main/cmd/xtrap.zip)
-
-</details>
- ---
 #### Screenshots:
 <details><summary>Expand for Screenshots</summary>
  
