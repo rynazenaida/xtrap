@@ -34,7 +34,20 @@ php xtrap.php
 
 ---
 
+#### Windows Version:
+<details><summary>installation</summary>
+<br>
+```bash
+php xtrap.php
+```
+#### Download
 
+<details><summary>Windows Version</summary>
+ 
+* [DOWNLOAD](https://github.com/rynazenaida/xtrap/raw/main/cmd/xtrap.zip)
+
+</details>
+---
 
 #### Screenshots:
 <details><summary>Expand for Screenshots</summary>
