@@ -39,7 +39,7 @@ php xtrap.php
 #### Screenshots:
 <details><summary>Expand for Screenshots</summary>
  
-* [](assets/banxtrap.png)
+* [Termux Version](assets/banxtrap.png)
 
 </details>
 
