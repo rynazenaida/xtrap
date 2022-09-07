@@ -40,15 +40,15 @@ php xtrap.php
 ```bash
 php xtrap.php
 ```
-#### Download
+---
+#### Download Windows Version
 
 <details><summary>Windows Version</summary>
  
 * [DOWNLOAD](https://github.com/rynazenaida/xtrap/raw/main/cmd/xtrap.zip)
 
 </details>
----
-
+ 
 #### Screenshots:
 <details><summary>Expand for Screenshots</summary>
  
