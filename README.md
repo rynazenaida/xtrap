@@ -2,7 +2,6 @@
 ---
 ## credit card xtrap
 
----
 
 ---
 
@@ -35,9 +34,12 @@ php xtrap.php
 
 ---
 
----
-<p align="left">
-  <img src="assets/banxtrap.png">
-</p>
----
+
+
+#### Screenshots:
+<details><summary>Expand for Screenshots</summary>
+ 
+* [KaliBang Linux Rolling](assets/banxtrap.png)
+
+</details>
 
