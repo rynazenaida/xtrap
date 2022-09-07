@@ -1,21 +1,6 @@
 # xtrap
 ---
 ## windows version
----
-<details><summary>run in cmd</summary>
-<br>
-```bash
-php xtrap.php
-```
-#### Download Windows Version
-
-<details><summary>Windows Version</summary>
- 
-* [DOWNLOAD](https://github.com/rynazenaida/xtrap/raw/main/cmd/xtrap.zip)
-
-</details>
- ---
-
 
 ---
 
@@ -59,5 +44,13 @@ php xtrap.php
 <details><summary>CREDIT CARD XTRAP IN REPLIT</summary>
  
 * [RUN](https://replit.com/@BlacklistID/xtrap?v=1)
+
+</details>
+
+#### Download Windows Version
+
+<details><summary>Windows Version</summary>
+ 
+* [DOWNLOAD](https://github.com/rynazenaida/xtrap/raw/main/cmd/xtrap.zip)
 
 </details>
