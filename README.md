@@ -39,7 +39,7 @@ php xtrap.php
 #### Screenshots:
 <details><summary>Expand for Screenshots</summary>
  
-* [KaliBang Linux Rolling](assets/banxtrap.png)
+* [](assets/banxtrap.png)
 
 </details>
 
