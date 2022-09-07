@@ -43,3 +43,10 @@ php xtrap.php
 
 </details>
 
+#### With Replit Xtrap
+
+<details><summary>CREDIT CARD XTRAP IN REPLIT</summary>
+ 
+* [RUN](https://replit.com/@BlacklistID/xtrap?v=1)
+
+</details>
