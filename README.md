@@ -33,9 +33,9 @@ php xtrap.php
 </details>
 
 ---
-
+---
 #### Windows Version:
-<details><summary>installation</summary>
+<details><summary>run in cmd</summary>
 <br>
 ```bash
 php xtrap.php
@@ -48,7 +48,7 @@ php xtrap.php
 * [DOWNLOAD](https://github.com/rynazenaida/xtrap/raw/main/cmd/xtrap.zip)
 
 </details>
- 
+ ---
 #### Screenshots:
 <details><summary>Expand for Screenshots</summary>
  
