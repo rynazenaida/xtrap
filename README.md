@@ -10,8 +10,8 @@ Termux Version:
     <li class="list-group-item"><code>cd xtrap</code></li>
     <li class="list-group-item"><code>php xtrap.php</code></li>
   </ul>
-## Banner
+### Banner
 
-<p align="center">
+<p align="left">
   <img src="assets/banxtrap.png">
 </p>
