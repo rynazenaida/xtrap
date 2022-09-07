@@ -24,6 +24,9 @@ Termux Version:
 ```bash
 toriptables2.py -r
 ```
+```bash
+toriptables2.py -r
+```
 </details>
 
 ---
