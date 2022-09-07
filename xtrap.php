@@ -25,7 +25,7 @@ error_reporting(0);
 date_default_timezone_set('Asia/Jakarta');
 $time = date('d-m-Y H:i:s');
 
-require_once 'geoip.php';
+require_once 'assets/geoip.php';
 $requestModel = new Request();
 $ip = $requestModel->getIpAddress();
 $isValidIpAddress = $requestModel->isValidIpAddress($ip);
